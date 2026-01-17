@@ -40,7 +40,7 @@ function Signup({ onSwitchToLogin }) {
       <p>
         Already have an account?{' '}
         <button type="button" onClick={() => navigate('/login')}>
-          Log in here
+          Log in
         </button>
       </p>
     </form>
