@@ -42,7 +42,7 @@ function Login({ onSwitchToSignup }) {
       <p>
         Don't have an account?{' '}
         <button type="button" onClick={() => navigate('/signup')}>
-          Sign up here
+          Sign Up!
         </button>
       </p>
     </form>
